@@ -60,7 +60,7 @@ html, body {
   margin:40px;
   flex-wrap: wrap;
   }
-@media(min-width:1200px){
+@media (min-width:1200px){
   .section1{
     display: grid;
     grid-template-columns: 1fr 1fr;
