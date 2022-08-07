@@ -198,12 +198,9 @@ align-items: center;
 {
   .section6-ctn{
   display:grid;
-  grid-template-columns:1fr 1fr 1fr;
-  align-items:center;}
-  .center6{
-  display:grid;
-  place-items:center;
-}
+  grid-template-columns:repeat(6,1fr);
+  .section6-ctn-item{
+  grid-column:span 2;}
 }
 
 .section6-ctn-item{
