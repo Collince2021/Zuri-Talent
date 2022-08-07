@@ -26,10 +26,17 @@ html, body {
   align-items: center;
   top:0;
     }
+@media (min-width:891px){
+  .header-list{
+  margin-left:20%;}
+  .header-ctn{
+    font-size:2rem;
+  }
+}
 @media (max-width:890px){
   .header-ctn ul{
   display:none;}
-}
+  }
 .header-list{
   margin-left: 7%;
 }
