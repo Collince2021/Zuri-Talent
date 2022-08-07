@@ -27,7 +27,7 @@ html, body {
   top:0;
     }
 @media (max-width:890px){
-  .header-ul{
+  .header-ctn ul{
   display:none;}
 }
 .header-list{
