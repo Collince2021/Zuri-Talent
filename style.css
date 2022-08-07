@@ -193,6 +193,7 @@ align-items: center;
 /*styling section 6*/
 .section6{
   background-color: lightpink;
+  padding:20px 10px;
 }
 .img6{
   width: 35%;
