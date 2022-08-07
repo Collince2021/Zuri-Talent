@@ -125,6 +125,15 @@ justify-content: center;
   justify-content: center;
   flex-wrap: wrap;
 }
+@media (min-width:1200px)
+{
+  .section3{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    align-items:center;
+    padding:40px;
+  }
+}
 .country{
   width:30%;
 }
@@ -132,9 +141,11 @@ justify-content: center;
   list-style-type: none;
 display: flex;
 align-items: center;
+  justify-content:center;
 }
 .section3-list-item{
   padding: 5px;
+  margin-right:10px;
 }
 .section3-bottom{
   display: flex;
