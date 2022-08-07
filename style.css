@@ -60,6 +60,19 @@ html, body {
   margin:40px;
   flex-wrap: wrap;
   }
+@media(min-width:1200px){
+  .section1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+  .section1-bottom{
+    background: url("https://talent.zuri.team/line1.svg");
+    background-repeat: no-repeat;
+    background-size:25%;
+    background-position: right center;
+  }
+}
 .section1-top{
   margin-top:25%;
   margin-right: 10%;
