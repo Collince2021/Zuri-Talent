@@ -198,10 +198,11 @@ align-items: center;
 {
   .section6-ctn{
   display:grid;
-  grid-template-columns:repeat(6,1fr);
+  grid-template-columns:repeat(3,1fr);
+    gap:10px;
   }
   .section6-ctn-item{
-  grid-column:span 2;}
+  }
 }
 
 .section6-ctn-item{
