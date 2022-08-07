@@ -28,7 +28,7 @@ html, body {
     }
 @media (min-width:891px){
   .header-list{
-  margin-left:90px;}
+  margin-left:70px;}
   .header-ctn *{
     font-size:2rem;
   }
