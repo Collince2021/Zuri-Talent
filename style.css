@@ -29,11 +29,7 @@ html, body {
 @media (min-width:891px){
   .header-list{
   margin-left:60px;}
-  .header-logo-img{width:45%;}
-  .header-ctn{
-    padding:30px;
-  }
-}
+   }
 @media (max-width:890px){
   .header-ctn ul{
   display:none;}
@@ -60,7 +56,7 @@ html, body {
 .header-btn-item{
   color:white;
   background-color:#e7332b ;
-  border-radius:0 0 20% 0;
+  border-radius:0 0 10px 0;
   padding:10px;
   border:none;
 }
