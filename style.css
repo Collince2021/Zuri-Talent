@@ -29,10 +29,10 @@ html, body {
 @media (min-width:891px){
   .header-list{
   margin-left:60px;}
-  .header-ctn *{
-    font-size:0.5rem;
-  }
   .header-logo-img{width:45%;}
+  .header-ctn{
+    padding:30px;
+  }
 }
 @media (max-width:890px){
   .header-ctn ul{
