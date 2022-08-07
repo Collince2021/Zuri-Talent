@@ -201,6 +201,10 @@ align-items: center;
   grid-template-columns:1fr 1fr 1fr;
   align-items:center;}
 }
+.center6{
+  display:grid;
+  place-items:center;
+}
 .section6-ctn-item{
   display: flex;
   align-items: center;
