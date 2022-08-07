@@ -28,10 +28,11 @@ html, body {
     }
 @media (min-width:891px){
   .header-list{
-  margin-left:20%;}
-  .header-ctn{
+  margin-left:40%;}
+  .header-ctn *{
     font-size:2rem;
   }
+  .header-logo{width:50%;}
 }
 @media (max-width:890px){
   .header-ctn ul{
