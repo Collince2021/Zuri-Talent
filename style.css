@@ -3,7 +3,8 @@ html, body {
 height:100%;
 }
 .body{
- margin:0 auto;}
+ margin:0 auto;
+ padding:3em;}
 *,*::before,*::after{
   box-sizing: border-box;
 }
