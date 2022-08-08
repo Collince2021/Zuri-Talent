@@ -3,7 +3,7 @@ html, body {
 height:100%;
 }
 .container-Body{
-margin:0;}
+margin:0 auto;}
 *,*::before,*::after{
   box-sizing: border-box;
 }
