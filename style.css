@@ -169,7 +169,7 @@ align-items: center;
   align-items: center;
   justify-content: center;
 }
-/*style section 4 and section 5*/
+/*style section 3, 4 and section 5*/
  @media (max-width:1199px){
 .no-display { 
   display:none;}}
@@ -253,6 +253,7 @@ footer{
   flex-direction: column;
   padding: 20px;
   align-items: center;
+  color:white;
 
 }
 .footer-img{
