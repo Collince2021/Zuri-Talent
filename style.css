@@ -170,6 +170,9 @@ align-items: center;
   justify-content: center;
 }
 /*style section 4 and section 5*/
+ @media (max-width:1199px){
+.no-display { 
+  display:none;}}
 .section4.section5{
   background-color: whitesmoke;
 }
